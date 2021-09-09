@@ -1,4 +1,4 @@
-#   
+<#   
 .SYNOPSIS   
     Interactive program that allows a user to discover paths longer the 260 characters long. This will case issues with windows.
 .DESCRIPTION 
