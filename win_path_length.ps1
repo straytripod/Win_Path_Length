@@ -6,8 +6,8 @@
     The scripts examines the base direcotry for items exceding the target of 260. The script finally create a report and opens it in notepad.    
 .NOTES   
     Name: win_path_length
-    Author: Jeffery Marugg
-    Modifier: Jeffery Marugg
+    Author: Straytripod
+    Modifier: Straytripod
     DateCreated: 9SEPT2021
     DateModifed: 9/9/2021
 #> 
