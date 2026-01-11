@@ -15,7 +15,7 @@
 Write-Host ""
 write-host "This program will examine path and find ones greater then 260 characters long."
 write-host ""  
-$exampath = Read-Host "Enter the base path to examine (\\DENVMACTIVE\Denver\...)"\
+$exampath = Read-Host "Enter the base path to examine (\\fileserver\Data\...)"\
 $raw = "c:\temp\thelist.txt"
 $results = "c:\temp\results.txt"
 Write-output "" > $raw
